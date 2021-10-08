@@ -1,0 +1,37 @@
+{ 
+
+  "name": "coolnodeapp", 
+
+  "version": "1.0.0", 
+
+  "description": "node app ", 
+
+  "main": "1008.js", 
+
+  "scripts": { 
+
+  "start": "node 1008.js" 
+
+}, 
+
+  "repository": { 
+
+  "type": "git", 
+
+  "url": "" 
+
+}, 
+
+  "author": "", 
+
+  "license": "ISC", 
+
+  "bugs": { 
+
+  "url": "http://localhost:3000/" 
+
+}, 
+
+  "homepage": "" 
+
+} 
